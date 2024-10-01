@@ -1,11 +1,6 @@
 # Luigi Evaluation
 This repository contains resources and scripts related to the Evaluator Recruitment process and Case Assignment Randomization for evaluators.
 
-## Table of Contents
-1. Evaluator Recruitment
-2. Case Assignment Randomization
-3. License
-
 ## Evaluator Recruitment
 The Evaluator Recruitment Page is accessible through https://rannyrh.github.io/luigi_eval/
 The content in `index.html` explains relevant requirements, such as evaluators' background and availability, and evaluation procedures.
